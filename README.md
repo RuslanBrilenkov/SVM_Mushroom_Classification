@@ -8,3 +8,6 @@ In this tutorial, we do the following:
 3. initialize and train our SVM classifier;
 4. make predictions using the testing set.
 
+If you have any comments, questions, suggestions, or just want to connect, my LinkedIn is http://bit.ly/RBrilenkov
+
+To learn more about the motivation behind this and other projects, please visit: http://bit.ly/RuslanBrilenkovBlog
