@@ -8,6 +8,11 @@ In this tutorial, we do the following:
 3. initialize and train our SVM classifier;
 4. make predictions using the testing set.
 
-If you have any comments, questions, suggestions, or just want to connect, my LinkedIn is http://bit.ly/RBrilenkov
+If you have any comments, questions, suggestions, or just want to connect, my contacts are below. Likewise, to learn more about the motivation behind this project and a complete guide to SVM classification for complete beginners, check out my original article (below).
 
-To learn more about the motivation behind this and other projects, please visit: http://bit.ly/RuslanBrilenkovBlog
+
+## Contacts
+
+[LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
+
+[Original article](https://medium.datadriveninvestor.com/support-vector-machine-svm-machine-learning-for-complete-beginners-7657854a2780)
